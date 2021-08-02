@@ -1,2 +1,2 @@
 # dotfiles
-Configs
+Configs, settings, and personalization
