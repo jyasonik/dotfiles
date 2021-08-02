@@ -1,0 +1,4 @@
+@-moz-document url-prefix(about:blank), url-prefix(about:newtab) {
+html, body, #newtab-customize-overlay {
+background: url("FirefoxWallpaper.png") no-repeat fixed center !important; background-size: cover !important;
+}
